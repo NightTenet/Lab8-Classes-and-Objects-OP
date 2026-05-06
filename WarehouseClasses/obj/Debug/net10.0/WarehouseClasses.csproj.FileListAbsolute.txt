@@ -1,0 +1,11 @@
+D:\C#\Lab8\WarehouseClasses\bin\Debug\net10.0\WarehouseClasses.deps.json
+D:\C#\Lab8\WarehouseClasses\bin\Debug\net10.0\WarehouseClasses.dll
+D:\C#\Lab8\WarehouseClasses\bin\Debug\net10.0\WarehouseClasses.pdb
+D:\C#\Lab8\WarehouseClasses\obj\Debug\net10.0\WarehouseClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lab8\WarehouseClasses\obj\Debug\net10.0\WarehouseClasses.AssemblyInfoInputs.cache
+D:\C#\Lab8\WarehouseClasses\obj\Debug\net10.0\WarehouseClasses.AssemblyInfo.cs
+D:\C#\Lab8\WarehouseClasses\obj\Debug\net10.0\WarehouseClasses.csproj.CoreCompileInputs.cache
+D:\C#\Lab8\WarehouseClasses\obj\Debug\net10.0\WarehouseClasses.dll
+D:\C#\Lab8\WarehouseClasses\obj\Debug\net10.0\refint\WarehouseClasses.dll
+D:\C#\Lab8\WarehouseClasses\obj\Debug\net10.0\WarehouseClasses.pdb
+D:\C#\Lab8\WarehouseClasses\obj\Debug\net10.0\ref\WarehouseClasses.dll
